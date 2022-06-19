@@ -1,1 +1,2 @@
-# rock_paper_scissor
+# Rock Paper and Scissor game
+Enjoy this simple game made with html, css and javascript...
